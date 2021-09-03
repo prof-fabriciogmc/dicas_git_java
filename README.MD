@@ -13,12 +13,12 @@ Descrição das pastas:
 
 Processo de build (Gradle 5):
 1. Criar uma pasta vazia
-1. Clonar o repositório com:  
+2. Clonar o repositório com:  
 ```console
 	git clone https://github.com/prof-fabriciogmc/dicas_git_java.git 
 ```
-1. Navegar para a pasta dicas_git_java
-1. Executar o comando: 
+3. Navegar para a pasta dicas_git_java
+4. Executar o comando: 
 ```console
 	gradlew apprun
 ```
